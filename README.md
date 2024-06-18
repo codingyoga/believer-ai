@@ -14,6 +14,10 @@
 
 Believer AI is built to be your personal productivity companion, combining goal management with advanced AI analytics. Whether you are aiming for personal development, professional milestones, or academic achievements, Believer AI provides the tools and insights you need to stay on track and accomplish your objectives.
 
+### Committed to Your Privacy
+
+At Believer AI, we prioritize your privacy. We employ pseudonymization to ensure that your personal information, such as email addresses, is processed securely. This means we replace your identifiable information with a unique identifier, allowing us to enhance service security without compromising functionality. Our methods are designed to adhere strictly to data protection regulations, safeguarding your personal details while enhancing your experience.
+
 ## How It Works
 
 1. **Set Goals**: Define your monthly and daily goals in the application.
