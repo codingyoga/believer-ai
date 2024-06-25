@@ -1,0 +1,7 @@
+streamlit==1.34.0
+plotly
+python-dotenv
+netcdf4
+h5py
+langchain
+langchain-openai
