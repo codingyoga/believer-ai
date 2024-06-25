@@ -15,6 +15,10 @@
 
 Believer AI is like having a personal coach in your pocket. It’s perfect for leveling up your skills, hitting those career goals, or acing your studies. With Believer AI, stay on track, stay motivated, and believe in your grind.
 
+### Committed to Your Privacy
+
+At Believer AI, we prioritize your privacy. We employ pseudonymization to ensure that your personal information, such as email addresses, is processed securely. This means we replace your identifiable information with a unique identifier, allowing us to enhance service security without compromising functionality. Our methods are designed to adhere strictly to data protection regulations, safeguarding your personal details while enhancing your experience.
+
 ## How It Works
 
 1. **Log Activities**: Record what you did, for how long, and in which category.
